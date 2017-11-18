@@ -33,8 +33,11 @@ public class Main {
         ///output2
         System.out.println();
         System.out.println("A man named " + name + " lives in the city "+ locate + ".\nThis person " + age +" years and he loves to engage in " + hobby +".");
-
-
-
+        //output 3
+        System.out.println();
+        System.out.println(name + " - Name");
+        System.out.println(locate + " - City");
+        System.out.println(age + " - Age");
+        System.out.println(hobby + " - Hobby");
     }
 }
